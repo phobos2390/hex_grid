@@ -7,7 +7,7 @@
 
 #include <iostream>
 #include <phobos2390/hex_grid_lib/hex_grid.h>
-#include <sdl2/SDL.h>
+#include <SDL2/SDL.h>
 #include <glm/glm.hpp>
 
 int main(int argc, char** argv) 

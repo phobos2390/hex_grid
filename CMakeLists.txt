@@ -23,7 +23,8 @@ set(VERSION_PATCH 0)
 
 set(CMAKE_C_COMPILER "/usr/bin/gcc")
 set(CMAKE_CXX_COMPILER "/usr/bin/g++")
-set(CMAKE_CXX_FLAGS "-Wa,-mbig-obj -g -std=c++14")
+#set(CMAKE_CXX_FLAGS "-Wa,-mbig-obj -g -std=c++14")
+set(CMAKE_CXX_FLAGS " -g -std=c++14")
 
 set(SOURCE_DIRECTORIES ${SRC_ROOT_DIR})
 

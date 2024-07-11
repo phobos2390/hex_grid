@@ -3,8 +3,8 @@
 #ifndef HEX_GRID_LIB_HEX_GRID_H
 #define HEX_GRID_LIB_HEX_GRID_H
 
-#include <sdl2/SDL.h>
-#include <sdl2/SDL_image.h>
+#include <SDL2/SDL.h>
+#include <SDL2/SDL_image.h>
 #include <glm/glm.hpp>
 
 namespace hex_grid_lib

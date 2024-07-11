@@ -3,8 +3,8 @@
 #include <phobos2390/hex_grid_lib/hex_grid.h>
 #include <catch2/catch.hpp>
 #include <phobos2390/hex_grid_lib/hex_grid.h> // Testing include guard
-#include <sdl2/SDL.h>
-#include <sdl2/SDL_image.h>
+#include <SDL2/SDL.h>
+#include <SDL2/SDL_image.h>
 #include <iostream>
 
 using namespace hex_grid_lib;
